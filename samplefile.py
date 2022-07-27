@@ -10,3 +10,6 @@ for shop_0 , product in shop.items():
     print(f'Idę do {shop_0.title()}, kupuję tu tam : {sp} ' )
 
 print(f"W sumie kupuję {amount} produktów.")
+
+sgsgfd
+sfdsfdgfd
