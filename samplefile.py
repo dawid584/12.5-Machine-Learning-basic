@@ -11,5 +11,3 @@ for shop_0 , product in shop.items():
 
 print(f"W sumie kupuję {amount} produktów.")
 
-sgsgfd
-sfdsfdgfd
